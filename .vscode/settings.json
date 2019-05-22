@@ -1,0 +1,16 @@
+{
+    "editor.formatOnSave": true,
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/home/redyafte/Documentos/sandbox/bedu/prueba/myvenv/bin/python",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "workbench.colorCustomizations": {
+        "titleBar.activeForeground": "#000",
+        "titleBar.inactiveForeground": "#000000CC",
+        "titleBar.activeBackground": "#FFC600",
+        "titleBar.inactiveBackground": "#FFC600CC"
+    }
+}
